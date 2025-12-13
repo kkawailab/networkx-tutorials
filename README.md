@@ -17,7 +17,7 @@ NetworkXを使ったグラフ分析の包括的なチュートリアルです。
 ### 必要条件
 
 ```bash
-pip install networkx matplotlib numpy pandas scipy
+pip install networkx matplotlib numpy pandas scipy japanize-matplotlib
 ```
 
 ### 実行方法
@@ -60,6 +60,13 @@ jupyter lab
 |----|----------|------|
 | 09 | [クラスタリングとコミュニティ検出](09_clustering_communities.ipynb) | Louvain法、モジュラリティ、クリーク検出 |
 | 12 | [高度なトピック](12_advanced_topics.ipynb) | ネットワークフロー、マッチング、二部グラフ、リンク予測 |
+
+### 付録
+
+| 章 | タイトル | 内容 |
+|----|----------|------|
+| A1 | [多元的無知のネットワークモデル](A1_pluralistic_ignorance.ipynb) | エージェントベースモデル、しきい値モデル、介入効果分析 |
+| A2 | [沈黙の螺旋理論のネットワークモデル](A2_spiral_of_silence.ipynb) | 孤立への恐れ、世論気候知覚、コア話者の役割 |
 
 ## 学習の進め方
 
@@ -107,6 +114,8 @@ jupyter lab
 
 | 日付 | バージョン | 内容 |
 |------|-----------|------|
+| 2025-12-14 | 1.2.0 | 付録A2（沈黙の螺旋理論）を追加 |
+| 2025-12-14 | 1.1.0 | 付録A1（多元的無知）を追加、japanize-matplotlib対応 |
 | 2024-12-14 | 1.0.0 | 初版リリース。全12章のチュートリアル作成 |
 
 ---
