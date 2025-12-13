@@ -23,6 +23,7 @@ jupyter lab
 - `01_introduction.ipynb` - `04_graph_attributes.ipynb`: Beginner level (basics, graph types, attributes)
 - `05_graph_generators.ipynb` - `08_centrality.ipynb`, `10_visualization.ipynb`, `11_io_operations.ipynb`: Intermediate level (algorithms, visualization, I/O)
 - `09_clustering_communities.ipynb`, `12_advanced_topics.ipynb`: Advanced level (community detection, network flow)
+- `A1_pluralistic_ignorance.ipynb`: Appendix - Pluralistic ignorance simulation with agent-based model
 
 ## Chapter Structure Convention
 
@@ -38,4 +39,4 @@ Each notebook follows a consistent structure:
 - All content is written in Japanese
 - Each chapter includes 3+ practice problems with model answers
 - Visualizations use matplotlib with `%matplotlib inline`
-- Standard imports: `import networkx as nx`, `import matplotlib.pyplot as plt`, `import numpy as np`
+- Standard imports: `import networkx as nx`, `import matplotlib.pyplot as plt`, `import numpy as np`, `import japanize_matplotlib`
