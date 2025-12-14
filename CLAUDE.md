@@ -25,6 +25,7 @@ jupyter lab
 - `09_clustering_communities.ipynb`, `12_advanced_topics.ipynb`: Advanced level (community detection, network flow)
 - `A1_pluralistic_ignorance.ipynb`: Appendix - Pluralistic ignorance simulation with agent-based model
 - `A2_spiral_of_silence.ipynb`: Appendix - Spiral of silence theory simulation
+- `A3_friendship_paradox.ipynb`: Appendix - Friendship paradox analysis and visualization
 
 ## Chapter Structure Convention
 
