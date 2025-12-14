@@ -26,6 +26,7 @@ jupyter lab
 - `A1_pluralistic_ignorance.ipynb`: Appendix - Pluralistic ignorance simulation with agent-based model
 - `A2_spiral_of_silence.ipynb`: Appendix - Spiral of silence theory simulation
 - `A3_friendship_paradox.ipynb`: Appendix - Friendship paradox analysis and visualization
+- `A4_six_degrees.ipynb`: Appendix - Six degrees of separation and small-world networks
 
 ## Chapter Structure Convention
 
