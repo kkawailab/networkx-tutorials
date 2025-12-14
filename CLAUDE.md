@@ -34,6 +34,7 @@ jupyter lab
 - `A9_preferential_attachment.ipynb`: Appendix - Preferential attachment and scale-free networks
 - `A10_homophily.ipynb`: Appendix - Homophily, assortativity, and social segregation
 - `A11_diffusion_of_innovations.ipynb`: Appendix - Diffusion of innovations, Bass model, and critical mass
+- `A12_triadic_closure.ipynb`: Appendix - Triadic closure, clustering coefficient, and transitivity
 
 ## Chapter Structure Convention
 
