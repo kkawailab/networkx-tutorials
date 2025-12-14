@@ -37,6 +37,7 @@ jupyter lab
 - `A12_triadic_closure.ipynb`: Appendix - Triadic closure, clustering coefficient, and transitivity
 - `A13_social_balance.ipynb`: Appendix - Social balance theory, signed networks, and structural balance
 - `A14_rich_club.ipynb`: Appendix - Rich club phenomenon, hub interconnectivity, and network resilience
+- `A15_network_robustness.ipynb`: Appendix - Network robustness, attack tolerance, cascade failures, percolation theory
 
 ## Chapter Structure Convention
 
