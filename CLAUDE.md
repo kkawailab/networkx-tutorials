@@ -32,6 +32,7 @@ jupyter lab
 - `A7_information_cascades.ipynb`: Appendix - Information cascades and social contagion models
 - `A8_echo_chambers.ipynb`: Appendix - Echo chambers, filter bubbles, and opinion polarization
 - `A9_preferential_attachment.ipynb`: Appendix - Preferential attachment and scale-free networks
+- `A10_homophily.ipynb`: Appendix - Homophily, assortativity, and social segregation
 
 ## Chapter Structure Convention
 
