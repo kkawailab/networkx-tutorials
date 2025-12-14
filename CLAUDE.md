@@ -30,6 +30,7 @@ jupyter lab
 - `A5_weak_ties.ipynb`: Appendix - Strength of weak ties theory and bridge detection
 - `A6_structural_holes.ipynb`: Appendix - Structural holes theory and brokerage analysis
 - `A7_information_cascades.ipynb`: Appendix - Information cascades and social contagion models
+- `A8_echo_chambers.ipynb`: Appendix - Echo chambers, filter bubbles, and opinion polarization
 
 ## Chapter Structure Convention
 
