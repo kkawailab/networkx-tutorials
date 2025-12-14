@@ -27,6 +27,7 @@ jupyter lab
 - `A2_spiral_of_silence.ipynb`: Appendix - Spiral of silence theory simulation
 - `A3_friendship_paradox.ipynb`: Appendix - Friendship paradox analysis and visualization
 - `A4_six_degrees.ipynb`: Appendix - Six degrees of separation and small-world networks
+- `A5_weak_ties.ipynb`: Appendix - Strength of weak ties theory and bridge detection
 
 ## Chapter Structure Convention
 
