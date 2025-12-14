@@ -35,6 +35,7 @@ jupyter lab
 - `A10_homophily.ipynb`: Appendix - Homophily, assortativity, and social segregation
 - `A11_diffusion_of_innovations.ipynb`: Appendix - Diffusion of innovations, Bass model, and critical mass
 - `A12_triadic_closure.ipynb`: Appendix - Triadic closure, clustering coefficient, and transitivity
+- `A13_social_balance.ipynb`: Appendix - Social balance theory, signed networks, and structural balance
 
 ## Chapter Structure Convention
 
