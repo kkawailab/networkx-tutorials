@@ -33,6 +33,7 @@ jupyter lab
 - `A8_echo_chambers.ipynb`: Appendix - Echo chambers, filter bubbles, and opinion polarization
 - `A9_preferential_attachment.ipynb`: Appendix - Preferential attachment and scale-free networks
 - `A10_homophily.ipynb`: Appendix - Homophily, assortativity, and social segregation
+- `A11_diffusion_of_innovations.ipynb`: Appendix - Diffusion of innovations, Bass model, and critical mass
 
 ## Chapter Structure Convention
 
