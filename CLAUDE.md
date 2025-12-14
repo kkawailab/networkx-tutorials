@@ -28,6 +28,7 @@ jupyter lab
 - `A3_friendship_paradox.ipynb`: Appendix - Friendship paradox analysis and visualization
 - `A4_six_degrees.ipynb`: Appendix - Six degrees of separation and small-world networks
 - `A5_weak_ties.ipynb`: Appendix - Strength of weak ties theory and bridge detection
+- `A6_structural_holes.ipynb`: Appendix - Structural holes theory and brokerage analysis
 
 ## Chapter Structure Convention
 
